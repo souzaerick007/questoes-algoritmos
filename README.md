@@ -1,1 +1,0 @@
-# --> Questões de vários níveis e sobre vários conteúdos passadas como objeto de treino em Algoritmos.
